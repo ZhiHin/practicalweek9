@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">practical week9</string>
+    <string name="courseTextLabel">Course</string>
+    <string-array name="course_selection">
+        <item>Software Engineering</item>
+        <item>Interactive Software</item>
+        <item>Information Technology</item>
+        <item>Internet Security</item>
+    </string-array>
+</resources>
